@@ -1,9 +1,0 @@
-{
-  "name": "project",
-  "version": "1.0.0",
-  "private": true,
-  "main": "index.html",
-  "scripts": {
-    "start": "npx serve ."
-  }
-}
